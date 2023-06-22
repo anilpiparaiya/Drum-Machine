@@ -25,10 +25,10 @@ Learn Data Exploration with Pandas by Analysing the Post-University Salaries of 
 I've attached the completed notebook to this repo as a link. If you have any issues, upload it to google drive and open it as a Google Colab Notebook.
 
 ### Project link
-https://jovian.com/anilpiparaiya/college-major-vs-your-salary-exploratory-data-analysis-using-pandas
+https://jovian.com/anilpiparaiya/college-major-vs-your-salary-exploratory-data-analysis-using-pandas/
 
 ### Google Colab Notebook link
-https://colab.research.google.com/drive/1JniXJZ69c4q9gH3WukHXnkiHxxifeHKK?usp=sharing
+https://colab.research.google.com/drive/1JniXJZ69c4q9gH3WukHXnkiHxxifeHKK?usp=sharing/
 
 
 
